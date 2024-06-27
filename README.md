@@ -9,9 +9,9 @@
 Sobre Mim/About Me
 </h2>
 
-<p> 🇧🇷 Experiente profissional em Testes de Software com mais de uma década de expertise na indústria. Ao longo dos meus 13 anos de carreira, tenho desempenhado um papel fundamental na garantia da qualidade e no aprimoramento de produtos de software de renomadas empresas. Minha paixão pela excelência técnica e minha habilidade em identificar e solucionar complexos problemas de qualidade me distinguem como uma profissional altamente competente nesta área.
+<p> 🇧🇷 Experiente profissional em Testes de Software com mais de uma década de experiência. Ao longo dos meus 13 anos de carreira, tenho desempenhado um papel fundamental na garantia da qualidade e no aprimoramento de produtos de software de renomadas empresas. Minha paixão pela excelência técnica e minha habilidade em identificar e solucionar complexos problemas de qualidade me distinguem como uma profissional altamente competente nesta área.
      
-<p> 🇺🇲 Experienced Software Testing Professional with over a decade of industry expertise. Throughout my 13-year career, I have played a pivotal role in ensuring quality and enhancing software products for renowned companies. My passion for technical excellence and my ability to identify and solve complex quality problems set me apart as a highly competent professional in this field.
+<p> 🇺🇲 Experienced Software Testing Professional with over a decade of expertise. Throughout my 13-year career, I have played a pivotal role in ensuring quality and enhancing software products for renowned companies. My passion for technical excellence and my ability to identify and solve complex quality problems set me apart as a highly competent professional in this field.
 
 <h2 align="left">
 Conhecimentos em/Knowledge in
